@@ -1,5 +1,6 @@
 s2disasm_git
 ============
+AEROSOL WUZ HERE
 
 The very latest Sonic 2 disassembly.
 
